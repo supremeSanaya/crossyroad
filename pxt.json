@@ -1,5 +1,5 @@
 {
-    "name": "Crossy/Road",
+    "name": "crossyroad",
     "dependencies": {
         "device": "*"
     },
